@@ -1,0 +1,77 @@
+[33mcommit e2cb5e3a68102beeaa58541a625352bdd7faaec3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 21:54:24 2021 +0800
+
+    deleting level 1 and all children
+
+[33mcommit 3314137430c5cb30414d0a82ec9a7e9b4b7a452b[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 21:50:03 2021 +0800
+
+    Deleted hipster.txt file
+
+[33mcommit 5b43768a285cc0720c8af49fcf118899a53c55ae[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 21:42:27 2021 +0800
+
+    Deleting new file
+
+[33mcommit 3dd366d2e4126d4fe3f1eb869b508a5aeabf6bfd[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 21:29:07 2021 +0800
+
+    Renaming level 1 file
+
+[33mcommit 3ae1c9e4a8b3a4e18d9541d318b94ea66613f862[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 21:20:39 2021 +0800
+
+    Moving level 2 file back to level 2 directory
+
+[33mcommit 60d02dcd0924c7de1636035af939d5262ebb9e30[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 21:16:59 2021 +0800
+
+    Moving file from level 2 to level 3
+
+[33mcommit e057ff4365838b4644ceee76c14716023d9e4e75[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 20:56:41 2021 +0800
+
+    Renaming level 2 file
+
+[33mcommit 6189c8d31f4135dc6e2480216904834a40a11dfc[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 20:48:42 2021 +0800
+
+    renaming level3 file
+
+[33mcommit d6642854d8fdcf3953ea0f3f43267a4e0d0bbfb9[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 20:30:43 2021 +0800
+
+    Adding several files recursively
+
+[33mcommit bd71b84f88b0e0b6a9bf699012ec4a14dc60a6dc[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 18:47:53 2021 +0800
+
+    More ipsum for hipsters
+
+[33mcommit 56fa0b63749dd4555824659c0119b30b7eb3417d[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 18:43:12 2021 +0800
+
+    Adding new file
+
+[33mcommit 1a6158415c4f0536db8c9e14ae68a5823cf293e3[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 18:22:31 2021 +0800
+
+    Adding more ipsum text
+
+[33mcommit 8a10a0cf57588ac2c4a32e4235e2226c132c83e0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Santos Jr., Luis <luis.santos.jr@accenture.com>
+Date:   Thu Sep 9 17:41:15 2021 +0800
+
+    My first commit
